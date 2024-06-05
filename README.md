@@ -3,7 +3,12 @@
 - Gain hands-on experience by deploying real-world websites that align with their interests (cybersecurity / human centered computing / ai / data science / specific domain)
 
 ## 1. Demonstrate the impact of the history of web applications development on current web-technology
-
+- Breakthrough of Internet Application Technologies:
+  - HTML
+  - JavaSript
+  - Dynamic web development
+  - Node.JS
+  - etc.
 
 ## 2. Design, construct and publish web-database applications
 
