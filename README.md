@@ -7,7 +7,12 @@
   - HTML
   - JavaSript
   - Dynamic web development
+  - Cloud services
   - Node.JS
+  - Browser technologies
+    - WebRTC
+    - XR
+  - Interactive UX/UI design tools
   - etc.
 
 ## 2. Design, construct and publish web-database applications
